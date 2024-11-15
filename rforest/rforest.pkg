@@ -20,10 +20,10 @@ d
 d Author: Matthias Schonlau,  University of Waterloo
 d Support: email schonlau@@uwaterloo.ca
 d
+f randomforest.jar
+f randomforest_predict.ado
 f rforest.ado
 f rforest.sthlp
-f randomforest_predict.ado
 f rforest_examples.ado
 f rforest_examples.ihlp
-f randomforest.jar
 f weka.jar
