@@ -26,4 +26,4 @@ f randomforest_predict.ado
 f rforest_examples.ado
 f rforest_examples.ihlp
 f randomforest.jar
-f ../w/weka.jar
+f weka.jar
